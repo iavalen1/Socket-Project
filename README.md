@@ -1,4 +1,4 @@
 # Socket-Project
 CSE 434 Socket Project 
 
-So this is the first version of the client and server python files for the socket project. These files don't include any of the requirements but simply implement the ability to communicate together. The server can send a message to the client and vice-versa. The client also implements a basic message-creating function to create messages based on user-input.
+This is a Python project that is meant to teach use socket programming by implementing an always-on server that handles connections from clients and creates an O-Ring topology that can then be used by outside clients for computations.
